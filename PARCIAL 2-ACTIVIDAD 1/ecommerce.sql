@@ -81,7 +81,7 @@ CREATE TABLE ubicacion(
     numero_contacto VARCHAR(50),
     region VARCHAR(250),
     manzana VARCHAR(50),
-    numero_INTerior VARCHAR(50),
+    numero_interior VARCHAR(50),
     numero_exterior VARCHAR(50),
     codigo_postal VARCHAR(5),
     calles VARCHAR(100),
